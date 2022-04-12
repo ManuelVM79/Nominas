@@ -7,145 +7,145 @@
     <tabla__salarios>
         <fecha>2021</fecha>
         <grupo_profesional numero="1">
-            <salario nivel="1">25.344,61</salario_nivel>
-            <salario nivel="2">20.275,83</salario_nivel>
-            <salario nivel="3">17.741,35</salario_nivel>
+            <salario nivel="1">25344.61</salario>
+            <salario nivel="2">20275.83</salario>
+            <salario nivel="3">17741.35</salario>
         </grupo_profesional>
         <grupo_profesional numero="2">
-            <salario nivel="1">22.663,38</salario_nivel>
-            <salario nivel="2">18.131,44</salario_nivel>
-            <salario nivel="3">15.864,27</salario_nivel>
+            <salario nivel="1">22663.38</salario>
+            <salario nivel="2">18131.44</salario>
+            <salario nivel="3">15864.27</salario>
         </grupo_profesional>
         <grupo_profesional numero="3">
-            <salario nivel="1" letra="a">22.664,11</salario_nivel>
-            <salario nivel="1" letra="b">22.433,86</salario_nivel>
-            <salario nivel="2" letra="a">19.885,40</salario_nivel>
-            <salario nivel="3" letra="a">19.366,96</salario_nivel>
-            <salario nivel="3" letra="b">18.397,96</salario_nivel>
+            <salario nivel="1" letra="a">22664.11</salario>
+            <salario nivel="1" letra="b">22433.86</salario>
+            <salario nivel="2" letra="a">19885.40</salario>
+            <salario nivel="3" letra="a">19366.96</salario>
+            <salario nivel="3" letra="b">18397.96</salario>
         </grupo_profesional>
         <grupo_profesional numero="4">
-            <salario nivel="1" letra="a">18.033,67</salario_nivel>
-            <salario nivel="2" letra="a">17.736,28</salario_nivel>
-            <salario nivel="2" letra="b">17.070,36</salario_nivel>
-            <salario nivel="2" letra="c">16.806,16</salario_nivel>
+            <salario nivel="1" letra="a">18033.67</salario>
+            <salario nivel="2" letra="a">17736.28</salario>
+            <salario nivel="2" letra="b">17070.36</salario>
+            <salario nivel="2" letra="c">16806.16</salario>
         </grupo_profesional>
         <grupo_profesional numero="5">
-            <salario nivel="1">16.571,72</salario_nivel>
-            <salario nivel="2" letra="a">16.371,43</salario_nivel>
-            <salario nivel="2" letra="b">15.786,05</salario_nivel>
-            <salario nivel="3">15.693,91</salario_nivel>
-            <salario nivel="4">15.596,47</salario_nivel>
+            <salario nivel="1">16571.72</salario>
+            <salario nivel="2" letra="a">16371.43</salario>
+            <salario nivel="2" letra="b">15786.05</salario>
+            <salario nivel="3">15693.91</salario>
+            <salario nivel="4">15596.47</salario>
         </grupo_profesional>
         <grupo_profesional numero="6">
-            <salario nivel="1">14.621,72</salario_nivel>
-            <salario nivel="2">13.939,63</salario_nivel>
+            <salario nivel="1">14621.72</salario>
+            <salario nivel="2">13939.63</salario>
         </grupo_profesional>
         <grupo_profesional numero="7">
-            <salario nivel="1">13.500,00</salario_nivel>
-            <salario nivel="2">13.300,00</salario_nivel>
+            <salario nivel="1">13500.00</salario>
+            <salario nivel="2">13300.00</salario>
         </grupo_profesional>
         <complementos_salariales>
-            <ayuda_especial>117,25</ayuda_especial>
-            <plus_de_transporte>2,43</plus_de_transporte>
-            <plus_de_teletrabajo>2,43</plus_de_teletrabajo>
-            <dieta_media>18,82</dieta_media>
-            <dieta_completa>55,37</dieta_completa>
+            <ayuda_especial>117.25</ayuda_especial>
+            <plus_de_transporte>2.43</plus_de_transporte>
+            <plus_de_teletrabajo>2.43</plus_de_teletrabajo>
+            <dieta_media>18.82</dieta_media>
+            <dieta_completa>55.37</dieta_completa>
         </complementos_salariales>
     </tabla__salarios>
     <tabla__salarios>
         <fecha>2022</fecha>
         <grupo_profesional numero="1">
-            <salario nivel="1">25.851,50</salario_nivel>
-            <salario nivel="2">20.681,35</salario_nivel>
-            <salario nivel="3">18.096,18</salario_nivel>
+            <salario nivel="1">25851.50</salario>
+            <salario nivel="2">20681.35</salario>
+            <salario nivel="3">18096.18</salario>
         </grupo_profesional>
         <grupo_profesional numero="2">
-            <salario nivel="1">23.116,65</salario_nivel>
-            <salario nivel="2">18.494,07</salario_nivel>
-            <salario nivel="3">16.181,56</salario_nivel>
+            <salario nivel="1">23116.65</salario>
+            <salario nivel="2">18494.07</salario>
+            <salario nivel="3">16181.56</salario>
         </grupo_profesional>
         <grupo_profesional numero="3">
-            <salario nivel="1" letra="a">23.117,39</salario_nivel>
-            <salario nivel="1" letra="b">22.882,54</salario_nivel>
-            <salario nivel="2" letra="a">20.283,11</salario_nivel>
-            <salario nivel="3" letra="a">19.754,30</salario_nivel>
-            <salario nivel="3" letra="b">18.765,92</salario_nivel>
+            <salario nivel="1" letra="a">23117.39</salario>
+            <salario nivel="1" letra="b">22882.54</salario>
+            <salario nivel="2" letra="a">20283.11</salario>
+            <salario nivel="3" letra="a">19754.30</salario>
+            <salario nivel="3" letra="b">18765.92</salario>
         </grupo_profesional>
         <grupo_profesional numero="4">
-            <salario nivel="1" letra="a">18.394,34</salario_nivel>
-            <salario nivel="2" letra="a">18.091,01</salario_nivel>
-            <salario nivel="2" letra="b">17.411,77</salario_nivel>
-            <salario nivel="2" letra="c">17.142,28</salario_nivel>
+            <salario nivel="1" letra="a">18394.34</salario>
+            <salario nivel="2" letra="a">18091.01</salario>
+            <salario nivel="2" letra="b">17411.77</salario>
+            <salario nivel="2" letra="c">17142.28</salario>
         </grupo_profesional>
         <grupo_profesional numero="5">
-            <salario nivel="1">16.903,15</salario_nivel>
-            <salario nivel="2" letra="a">16.698,86</salario_nivel>
-            <salario nivel="2" letra="b">16.101,77</salario_nivel>
-            <salario nivel="3">16.007,79</salario_nivel>
-            <salario nivel="4">15.908,40</salario_nivel>
+            <salario nivel="1">16903.15</salario>
+            <salario nivel="2" letra="a">16698.86</salario>
+            <salario nivel="2" letra="b">16101.77</salario>
+            <salario nivel="3">16007.79</salario>
+            <salario nivel="4">15908.40</salario>
         </grupo_profesional>
         <grupo_profesional numero="6">
-            <salario nivel="1">14.914,15</salario_nivel>
-            <salario nivel="2">14.218,42</salario_nivel>
+            <salario nivel="1">14914.15</salario>
+            <salario nivel="2">14218.42</salario>
         </grupo_profesional>
         <grupo_profesional numero="7">
-            <salario nivel="1">13.770,00</salario_nivel>
-            <salario nivel="2">13.566,00</salario_nivel>
+            <salario nivel="1">13770.00</salario>
+            <salario nivel="2">13566.00</salario>
         </grupo_profesional>
         <complementos_salariales>
-            <ayuda_especial>119,60</ayuda_especial>
-            <plus_de_transporte>2,49</plus_de_transporte>
-            <plus_de_teletrabajo>2,49</plus_de_teletrabajo>
-            <dieta_media>19,20</dieta_media>
-            <dieta_completa>56,48</dieta_completa>
+            <ayuda_especial>119.60</ayuda_especial>
+            <plus_de_transporte>2.49</plus_de_transporte>
+            <plus_de_teletrabajo>2.49</plus_de_teletrabajo>
+            <dieta_media>19.20</dieta_media>
+            <dieta_completa>56.48</dieta_completa>
         </complementos_salariales>
     </tabla__salarios>
     <tabla__salarios>
         <fecha>2023</fecha>
         <grupo_profesional numero="1">
-            <salario nivel="1">26.368,53</salario_nivel>
-            <salario nivel="2">21.094,97</salario_nivel>
-            <salario nivel="3">18.458,10</salario_nivel>
+            <salario nivel="1">26368.53</salario>
+            <salario nivel="2">21094.97</salario>
+            <salario nivel="3">18458.10</salario>
         </grupo_profesional>
         <grupo_profesional numero="2">
-            <salario nivel="1">23.579,00</salario_nivel>
-            <salario nivel="2">18.863,95</salario_nivel>
-            <salario nivel="3">16.505,19</salario_nivel>
+            <salario nivel="1">23579.00</salario>
+            <salario nivel="2">18863.95</salario>
+            <salario nivel="3">16505.19</salario>
         </grupo_profesional>
         <grupo_profesional numero="3">
-            <salario nivel="1" letra="a">23.579,74</salario_nivel>
-            <salario nivel="1" letra="b">23.340,19</salario_nivel>
-            <salario nivel="2" letra="a">20.688,77</salario_nivel>
-            <salario nivel="3" letra="a">20.149,39</salario_nivel>
-            <salario nivel="3" letra="b">19.141,24</salario_nivel>
+            <salario nivel="1" letra="a">23579.74</salario>
+            <salario nivel="1" letra="b">23340.19</salario>
+            <salario nivel="2" letra="a">20688.77</salario>
+            <salario nivel="3" letra="a">20149.39</salario>
+            <salario nivel="3" letra="b">19141.24</salario>
         </grupo_profesional>
         <grupo_profesional numero="4">
-            <salario nivel="1" letra="a">18.762,23</salario_nivel>
-            <salario nivel="2" letra="a">18.452,83</salario_nivel>
-            <salario nivel="2" letra="b">17.760,00</salario_nivel>
-            <salario nivel="2" letra="c">17.485,13</salario_nivel>
+            <salario nivel="1" letra="a">18762.23</salario>
+            <salario nivel="2" letra="a">18452.83</salario>
+            <salario nivel="2" letra="b">17760.00</salario>
+            <salario nivel="2" letra="c">17485.13</salario>
         </grupo_profesional>
         <grupo_profesional numero="5">
-            <salario nivel="1">17.241,22</salario_nivel>
-            <salario nivel="2" letra="a">17.032,84</salario_nivel>
-            <salario nivel="2" letra="b">16.423,81</salario_nivel>
-            <salario nivel="3">16.327,94</salario_nivel>
-            <salario nivel="4">16.226,57</salario_nivel>
+            <salario nivel="1">17241.22</salario>
+            <salario nivel="2" letra="a">17032.84</salario>
+            <salario nivel="2" letra="b">16423.81</salario>
+            <salario nivel="3">16327.94</salario>
+            <salario nivel="4">16226.57</salario>
         </grupo_profesional>
         <grupo_profesional numero="6">
-            <salario nivel="1">15.212,44</salario_nivel>
-            <salario nivel="2">14.502,79</salario_nivel>
+            <salario nivel="1">15212.44</salario>
+            <salario nivel="2">14502.79</salario>
         </grupo_profesional>
         <grupo_profesional numero="7">
-            <salario nivel="1">14.045,40</salario_nivel>
-            <salario nivel="2">13.837,32</salario_nivel>
+            <salario nivel="1">14045.40</salario>
+            <salario nivel="2">13837.32</salario>
         </grupo_profesional>
         <complementos_salariales>
-            <ayuda_especial>122,00</ayuda_especial>
-            <plus_de_transporte>2,54</plus_de_transporte>
-            <plus_de_teletrabajo>2,54</plus_de_teletrabajo>
-            <dieta_media>19,58</dieta_media>
-            <dieta_completa>57,61</dieta_completa>
+            <ayuda_especial>122.00</ayuda_especial>
+            <plus_de_transporte>2.54</plus_de_transporte>
+            <plus_de_teletrabajo>2.54</plus_de_teletrabajo>
+            <dieta_media>19.58</dieta_media>
+            <dieta_completa>57.61</dieta_completa>
         </complementos_salariales>
     </tabla__salarios>
-</convenio__salarios>
+</convenio_salarios>

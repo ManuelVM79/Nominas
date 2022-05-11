@@ -68,6 +68,16 @@ TIPO_CONTRATO ....
 
 );
 
+CREATE TABLE Horas_Extra(
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    DNI VARCHAR(10) NOT NULL,
+    CIF varchar(20),
+    Horas DOUBLE (2,2),
+    Fecha_inicio DATE,
+    Fecha_final DATE);
+    CONSTRAINT fk_horas_trabajador FOREIGN KEY (DNI) REFERENCES TRABAJADOR (DNI) ON DELETE CASCADE ON UPDATE CASCADE,
+    CONSTRAINT fk_horas_empresa FOREIGN KEY (CIF) REFERENCES EMPRESA (CIF) ON DELETE CASCADE ON UPDATE CASCADE);
+
 INSERT INTO CATEGORIAS VALUES(1,'Jefe Administración Superior',23117.39),
 (2,'Programador o técnico de sistemas y comunicaciones',20283.11),
 (3,'Programador maquinas auxiliares',18394.34);

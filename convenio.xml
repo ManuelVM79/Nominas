@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <convenio_equivalencias>
     <datos_generales>
         <nombre>CONVENIO COLECTIVO OFICINAS Y DESPACHOS</nombre>
@@ -37,13 +37,13 @@
             <grupo_profesional numero="3">
                 <niveles_de_categorias>
                     <nivel numero="1">
-                        <nombre_categoria letra="a">Jefe Administraci�n Superior, Jefe Delineaci�n</nombre_categoria>
+                        <nombre_categoria letra="a">Jefe Administración Superior, Jefe Delineación</nombre_categoria>
                         <nombre_categoria letra="b">Delineante proyectista</nombre_categoria>
                     </nivel>
                     <nivel numero="2">
                         <nombre_categoria>Encargado laboratorio, Jefe de Primera Administrativo , Jefe 
-                            equipo inform�tica, Analista de inform�tica, programador o 
-                            t�cnico de sistemas y comunicaciones</nombre_categoria>
+                            equipo informática, Analista de informática, programador o 
+                            técnico de sistemas y comunicaciones</nombre_categoria>
                     </nivel>
                     <nivel numero="3">
                         <nombre_categoria letra="a">Delineante de primera</nombre_categoria>
@@ -64,11 +64,11 @@
                     <nivel numero="1">
                         <nombre_categoria>Jefe Administrativo de Segunda, Cajero con firma, 
                             programador maquinas auxiliares, administrador de test, 
-                            coordinador tratamientos cuestionarios, jefe explotaci�n, 
-                            interpretes jurados, secretarias/os de Direcci�n</nombre_categoria>
+                            coordinador tratamientos cuestionarios, jefe explotación, 
+                            interpretes jurados, secretarias/os de Dirección</nombre_categoria>
                     </nivel>
                     <nivel numero="2">
-                        <nombre_categoria letra="a">T�cnico analista, analista de primera</nombre_categoria>
+                        <nombre_categoria letra="a">Técnico analista, analista de primera</nombre_categoria>
                         <nombre_categoria letra="b">Analista de segunda</nombre_categoria>
                         <nombre_categoria letra="c">Inspector entrevistador, encargado, operador tabuladores</nombre_categoria>
                     </nivel>
@@ -84,9 +84,9 @@
             <grupo_profesional numero="5">
                 <niveles_de_categorias>
                     <nivel numero="1">
-                        <nombre_categoria>Oficial de primera, taqu�grafo, cajero sin firma, coordinador de 
+                        <nombre_categoria>Oficial de primera, taquígrafo, cajero sin firma, coordinador de 
                             estudios, responsable equipo encuestas, operador 
-                            ordenadores 1�, jefe de maquinas b�sicas, clasificador, 
+                            ordenadores 1ª, jefe de maquinas básicas, clasificador, 
                             responsable central teleoperadores</nombre_categoria>
                     </nivel>
                     <nivel numero="2">
@@ -97,7 +97,7 @@
                         <nombre_categoria>Capataz</nombre_categoria>
                     </nivel>
                     <nivel numero="4">
-                        <nombre_categoria>Oficial de segunda , perforista verificador, ; mec�nicos/as; 
+                        <nombre_categoria>Oficial de segunda , perforista verificador, ; mecánicos/as; 
                             carpinteros/as; electricistas; lector/a de contadores</nombre_categoria>
                     </nivel>
                 </niveles_de_categorias>
@@ -112,7 +112,7 @@
             <grupo_profesional numero="6">
                 <niveles_de_categorias>
                     <nivel numero="1">
-                        <nombre_categoria>Operador de m�quinas b�sicas, dibujante, 
+                        <nombre_categoria>Operador de máquinas básicas, dibujante, 
                             entrevistador/encuestador; Oficial de oficios de primera, 
                             conductor, jardinero</nombre_categoria>
                     </nivel>
@@ -129,14 +129,14 @@
             <grupo_profesional numero="7">
                 <niveles_de_categorias>
                     <nivel numero="1">
-                        <nombre_categoria>Auxiliar Administrativo m�s de 3 a�os, Teleoperadores mas de 3 a�os</nombre_categoria>
+                        <nombre_categoria>Auxiliar Administrativo más de 3 años, Teleoperadores mas de 3 años</nombre_categoria>
                     </nivel>
                     <nivel numero="2">
                         <nombre_categoria>Auxiliar administrativo de entrada, perforista de segunda; 
                             auxiliar de laboratorio; Ayudante operador, cobrador-pagador; 
-                            auxiliar de caja, operador reproducci�n multicop, Pe�n, mozo, 
-                            personal de limpieza, personal de oficios b�sicos, conserje 
-                            ordenanza portero d�a; costurera oficial, botones, bedeles, 
+                            auxiliar de caja, operador reproducción multicop, Peón, mozo, 
+                            personal de limpieza, personal de oficios básicos, conserje 
+                            ordenanza portero día; costurera oficial, botones, bedeles, 
                             teleoperadores</nombre_categoria>
                     </nivel>
                 </niveles_de_categorias>
